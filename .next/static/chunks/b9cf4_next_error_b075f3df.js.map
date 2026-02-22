@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/Ravindra/Downloads/MayankPortfolio-master/MayankPortfolio-master/node_modules/.pnpm/next%4016.0.7_react-dom%4019.2.4_react%4019.2.4__react%4019.2.4/node_modules/next/error.js"],"sourcesContent":["module.exports = require('./dist/pages/_error')\n"],"names":[],"mappings":"AAAA,OAAO,OAAO","ignoreList":[0],"debugId":null}}]
+}
